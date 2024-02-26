@@ -1,8 +1,9 @@
 # 💫About Me :
-Họ và tên: Lê Xuân Quảng
-Đang học tại: Học viện Công nghệ bưu chính viễn thông
-Quê quán: Bắc Ninh
-Sống tại: Hà Nội
+<p>Họ và tên: Lê Xuân Quảng<br>
+Đang học tại: Học viện Công nghệ bưu chính viễn thông<br>
+Quê quán: Bắc Ninh<br>
+Sống tại: Hà Nội</p>
+
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100083620950953) 
